@@ -1,2 +1,3 @@
 #WSNEWS1
-mindog
+Classic Modus = Altes Program
+Safe Modus = sicherer aber noch ungetestet
